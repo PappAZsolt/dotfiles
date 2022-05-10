@@ -136,6 +136,9 @@ yay -S picom-ibhagwan-git
 
 [https://www.youtube.com/watch?v=39JPR691yyc&t=617s](https://www.youtube.com/watch?v=39JPR691yyc&t=617s)
 
+![Screenshot](https://user-images.githubusercontent.com/68129312/167709532-3c0a8cab-7996-422c-bc75-84ea02b4181b.png)
+
+
 # Kitty Terminal
 
 ---
